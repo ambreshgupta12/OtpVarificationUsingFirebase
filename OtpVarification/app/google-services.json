@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583109742226",
+    "firebase_url": "https://otpvarification-c9286.firebaseio.com",
+    "project_id": "otpvarification-c9286",
+    "storage_bucket": "otpvarification-c9286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583109742226:android:abab3a8dfc447c8e",
+        "android_client_info": {
+          "package_name": "www.mombatti.otpvarification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583109742226-j3doufodbh40p4rm560kd9beugpqqide.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.mombatti.otpvarification",
+            "certificate_hash": "ef482188b498f71029aa4df7dbf057fdf00e4776"
+          }
+        },
+        {
+          "client_id": "583109742226-0g6259jhafdevbfmhc2gq2lh7m18leg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHTI2_EZ4D0f94ISOXRYSmaX1Q6eKkn-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583109742226-0g6259jhafdevbfmhc2gq2lh7m18leg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

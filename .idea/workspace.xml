@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c59fcd0a-e66a-4b01-8ca5-4fa67ba50a55" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/Application/OneSignalApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/AppBaseActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumAcreditationsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumBioGraphy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumCreateProfileStep1Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumCreateProfileStep2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumCreateProfileStep3Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumDashboardActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumDocumentsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumFindMeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumJoinNowActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumLoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumLogoutActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumMakeSureActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumPDFFileViewActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumPreferencesActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumPrivacyPolicyActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumProfileActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumProfileEditActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumResetPasswordStep1Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumResetPasswordStep2Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumResetPasswordStep3Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/LocumTermAndConditionActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/activity/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/adapter/DocumentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/adapter/LocumAcreditationAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/BaseFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocalFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumBaseFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumMainMyShiftsFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumPaymentFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumShiftConfirmFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumShiftsApplied.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumShiftsBooked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumShiftsCompleted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/model/documents/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/model/documents/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/model/documents/DocumentModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/model/documents/meta/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/model/documents/meta/Meta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/model/documents/meta/Pagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/model/documents/view/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/model/documents/view/ViewDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/network/ActivityCallbackInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/network/AppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/network/WSCalled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/Autocomplete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/BtnView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/CenteredIconButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/CustomTabLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/ETView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/MyTagHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/Spinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/TVHeavy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/TVMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/TView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/UniversalCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/ic_powered_by.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/ic_powered_by.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/ic_powered_by.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/bold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/bullets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/cameras.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/circular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/i_mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/ic_powered_by.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/italic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/numbers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/rectangular_edit_text_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/underline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/ic_powered_by.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/background_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/i_mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/i_mark_ok_back_ground_color_orange.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/ic_circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/ic_close_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/ic_keyboard_arrow_left_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/ic_locum_shift_filter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/ic_logo_new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/my_progress_loader.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/preference_switch_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/preference_switch_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/priority.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/question_mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/radio_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/radio_unselected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rectangular_edit_text_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/symbol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/writing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/writing2_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/writing2_without_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/x_mark1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/x_mark2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/x_mark3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/x_mark_blank_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/x_mark_blank_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/x_mark_blank_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/you_earn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_insurance.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_acreditations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_bio_graphy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_create_profile_step1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_create_profile_step2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_create_profile_step3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_documents.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_findme.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_join_now.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_make_sure.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_pdf_file_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_privacy_policy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_reset_password_step1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_term_and_condition.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/dialog_address_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/dialog_complete_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/dialog_confirm_password.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/dialog_expiray_date.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/dialog_postal_code.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/dialog_profile_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/item_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/tooltip_details.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/.idea/assetWizardSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/assets/HelveticaNeue_Roman.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/assets/HelveticaNeue_Roman.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/assets/HelveticaNeue_Roman_Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/assets/HelveticaNeueLTStd-Md.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/ic_launcher-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/CalendarCellDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/CalendarCellView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/CalendarGridView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/CalendarPickerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/CalendarRowView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/DayViewAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/DefaultDayViewAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/IndexedLinkedHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/Logr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/MonthCellDescriptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/MonthDescriptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/MonthView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/PharmacyCalenderPickerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/savvi/rangedatepicker/RangeState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/ContactUsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/CreateProfileActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/CreateProfileStep2Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/CreateProfileStep3Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/FaqActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/GpHCInformationActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/JoinNowActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/MakeSureActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/MapsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/NewsBlogActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/NotificationRedirectionActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/PrefrencesActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/PrivacyPolicyActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/ResendLinkActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/ResetPasswordActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/ResetPasswordStep2Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/ResetPasswordStep3Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/SocialNetworkingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/SplashActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/SupportActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/TermAndConditionActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/ViewDesktopActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/application/OneSignalApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/cview/Autocomplete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/cview/BtnView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/cview/CenteredIconButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/cview/ETView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/cview/TV_Heavy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/cview/TV_Medium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/cview/TView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/FindMeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/L_Registration_Step_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/L_Registration_Step_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/L_Registration_Step_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/L_Registration_Step_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/LocumDashboardActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/LocumLogoutActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/LocumProfileActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/LocumProfileEditActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/Locum_Accounting_Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/Locum_Acreditations_Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/Locum_Applied_Job_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/Locum_Booked_Jobs_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/Locum_Completed_Jobs_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/Locum_Confirm_Job_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/Locum_Documents_Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/Locum_Job_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/PDF_Reader_Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/Local_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumDashboardFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumFragmentCalender.java" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumFragmentCalender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumFragmentDrawer.java" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumFragmentDrawer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumFragmentNotifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumFragmentNotifications.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumSearchFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/LocumSearchFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/Locum_Main_My_Shifts_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/Locum_Shift_Confirm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/Locum_Shifts_Applied.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/Locum_Shifts_Booked.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/Locum_Shifts_Completed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/SearchLocationFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/fragment/SearchLocationFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Add_Locum_Review.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Add_Pharmacy_Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Add_Pharmacy_Success.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Edit_Job_Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Edit_Pharmacy_Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Locum_Feedback_Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/My_Pharmacy_Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Pha_Registration_Step_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Pha_Registration_Step_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Pha_Registration_Step_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Pha_Registration_Step_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/PharmacyAccounting_Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/PharmacyDashboardActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/PharmacyLogout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Pharmacy_Booked_Locum_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Pharmacy_Completed_Locum_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Pharmacy_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/Pharmacy_Pending_Locum_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/AddressLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/BookedJobLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/CalenderLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/CompletedJobsLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/DateShiftsLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/Job_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/Job_Details_Request_Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/JobsDashboardLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/LocumReviewLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/My_Pharmacy_Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/My_Pharmacy_Lists_New.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/NotificationsLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/PMRSystemLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/ParkingLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/PendingJobLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/Pharmacy_Custom_Calander_Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/Pharmacy_Dashboard_Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/Pharmacy_Dashboard_Other_Notifications_Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/Pharmacy_Main_Home_Dashboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/Pharmacy_Position_Lists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/UpJobLookingLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/arraylists/UpJobTypeLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Move_To_Booked_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/PharmacyFragmentDrawer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Pharmacy_Calender_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Pharmacy_Home_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Pharmacy_Job_Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Pharmacy_Jobs_Book_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Pharmacy_Jobs_Completed_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Pharmacy_Jobs_Pending_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Pharmacy_Main_Jobs_Details_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Pharmacy_Main_Jobs_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Pharmacy_Notifications_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/pharmacy/fragment/Upload_Job_Fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/twitter/HttpUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/twitter/TwitterAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/twitter/TwitterAsyncTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/twitter/TwitterCallbackInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/twitter/TwitterTweet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/twitter/TwitterUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/ActivityCallbackInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/AppBaseActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/AppConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/BadgeView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/BaseFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/CustomTabLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/DirectionsJSONParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/FileDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/GPSTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/LocumBaseFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/LocumCalendarInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/LocumCalendarInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/Locum_Calendar_Date_Range_Selector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/Locum_Calendar_Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/Pharmacy_Calendar_Date_Range_Selector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/Pharmacy_Calendar_Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/ProportionalImageView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/SessionData.java" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/locum/utility/SessionData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/UniversalCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/java/com/welocum/utility/WS_Called.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_add_another_rate_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_add_another_rate_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_back_btn_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_badge_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_blue_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_calendar_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_calendar_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_home_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_home_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_jobs_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_jobs_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_notification_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_notification_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_upload_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_upload_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_bottom_bar_upload_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_btn_defalut_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_btn_defalut_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_btn_leave_review_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_btn_leave_review_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_cal_job_pending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_cancel_applicant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_dashboard_applicants.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_dashboard_notification_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_delete_shift.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_emergency_normal_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_emergency_normal_hover_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_euro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_filter_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_find_address_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_find_address_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_gphc_icon_add_pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_ic_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_ic_names.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_job_details_back_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_job_details_filter_minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_job_details_filter_plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_job_multiples.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_locum_proifle_review_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_logout_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_mobile_ic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_name_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_navigation_accounting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_navigation_contact_us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_navigation_faq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_navigation_locum_review.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_navigation_news_blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_navigation_pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_navigation_rate_app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_navigation_support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_negotiate_rates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_no_negotitate_rate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_orange_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_pending_job_awating.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_pending_job_calander_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_pending_job_location_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_pending_job_time_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_registration_complete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_remove_edit_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_remove_pending_job.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_start_end_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_submit_review_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_toggle_active_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_toggle_inactive_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_top_bar_drop_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmacy_under_construction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmcy_popup_blue_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmcy_popup_blue_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmcy_popup_green_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmcy_popup_green_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmcy_popup_orange_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-hdpi/pharmcy_popup_orange_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_add_another_rate_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_add_another_rate_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_back_btn_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_badge_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_blue_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_calendar_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_calendar_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_home_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_home_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_jobs_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_jobs_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_notification_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_notification_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_upload_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_upload_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_bottom_bar_upload_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_btn_defalut_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_btn_defalut_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_btn_leave_review_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_btn_leave_review_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_cal_job_pending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_cancel_applicant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_dashboard_applicants.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_dashboard_notification_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_delete_shift.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_emergency_normal_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_emergency_normal_hover_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_euro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_filter_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_find_address_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_find_address_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_gphc_icon_add_pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_ic_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_ic_names.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_job_details_back_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_job_details_filter_minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_job_details_filter_plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_job_multiples.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_locum_proifle_review_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_logout_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_mobile_ic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_name_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_navigation_accounting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_navigation_contact_us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_navigation_faq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_navigation_locum_review.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_navigation_news_blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_navigation_pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_navigation_rate_app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_navigation_support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_negotiate_rates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_no_negotitate_rate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_orange_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_pending_job_awating.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_pending_job_calander_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_pending_job_location_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_pending_job_time_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_registration_complete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_remove_edit_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_remove_pending_job.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_start_end_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_submit_review_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_toggle_active_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_toggle_inactive_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_top_bar_drop_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmacy_under_construction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmcy_popup_blue_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmcy_popup_blue_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmcy_popup_green_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmcy_popup_green_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmcy_popup_orange_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-mdpi/pharmcy_popup_orange_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-nodpi/edit_text_opt_border.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-nodpi/edit_text_opt_border.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_add_another_rate_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_add_another_rate_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_back_btn_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_badge_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_blue_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_calendar_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_calendar_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_home_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_home_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_jobs_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_jobs_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_notification_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_notification_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_upload_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_upload_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_bottom_bar_upload_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_btn_defalut_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_btn_defalut_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_btn_leave_review_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_btn_leave_review_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_cal_job_pending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_cancel_applicant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_dashboard_applicants.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_dashboard_notification_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_delete_shift.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_emergency_normal_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_emergency_normal_hover_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_euro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_filter_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_find_address_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_find_address_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_gphc_icon_add_pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_ic_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_ic_names.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_job_details_back_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_job_details_filter_minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_job_details_filter_plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_job_multiples.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_locum_proifle_review_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_logout_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_mobile_ic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_name_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_navigation_accounting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_navigation_contact_us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_navigation_faq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_navigation_locum_review.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_navigation_news_blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_navigation_pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_navigation_rate_app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_navigation_support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_negotiate_rates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_no_negotitate_rate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_orange_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_pending_job_awating.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_pending_job_calander_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_pending_job_location_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_pending_job_time_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_registration_complete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_remove_edit_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_remove_pending_job.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_start_end_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_submit_review_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_toggle_active_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_toggle_inactive_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_top_bar_drop_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmacy_under_construction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmcy_popup_blue_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmcy_popup_blue_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmcy_popup_green_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmcy_popup_green_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmcy_popup_orange_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xhdpi/pharmcy_popup_orange_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_add_another_rate_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_add_another_rate_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_back_btn_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_badge_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_blue_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_calendar_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_calendar_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_home_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_home_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_jobs_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_jobs_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_notification_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_notification_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_upload_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_upload_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_bottom_bar_upload_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_btn_defalut_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_btn_defalut_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_btn_leave_review_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_btn_leave_review_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_cal_job_pending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_cancel_applicant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_dashboard_applicants.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_dashboard_notification_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_delete_shift.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_emergency_normal_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_emergency_normal_hover_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_euro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_filter_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_find_address_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_find_address_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_gphc_icon_add_pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_ic_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_ic_names.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_job_details_back_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_job_details_filter_minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_job_details_filter_plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_job_multiples.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_locum_proifle_review_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_logout_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_mobile_ic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_name_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_navigation_accounting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_navigation_contact_us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_navigation_faq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_navigation_locum_review.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_navigation_news_blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_navigation_pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_navigation_rate_app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_navigation_support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_negotiate_rates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_no_negotitate_rate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_orange_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_pending_job_awating.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_pending_job_calander_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_pending_job_location_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_pending_job_time_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_registration_complete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_remove_edit_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_remove_pending_job.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_start_end_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_submit_review_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_toggle_active_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_toggle_inactive_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_top_bar_drop_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_top_bar_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmacy_under_construction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmcy_popup_blue_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmcy_popup_blue_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmcy_popup_green_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmcy_popup_green_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmcy_popup_orange_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxhdpi/pharmcy_popup_orange_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_add_another_rate_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_add_another_rate_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_back_btn_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_badge_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_blue_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_calendar_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_calendar_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_home_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_home_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_jobs_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_jobs_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_notification_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_notification_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_upload_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_upload_selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_bottom_bar_upload_unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_btn_defalut_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_btn_defalut_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_btn_leave_review_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_btn_leave_review_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_cal_job_pending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_cancel_applicant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_dashboard_applicants.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_dashboard_notification_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_delete_shift.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_emergency_normal_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_emergency_normal_hover_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_euro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_filter_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_find_address_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_find_address_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_gphc_icon_add_pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_ic_mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_ic_names.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_job_details_back_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_job_details_filter_minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_job_details_filter_plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_job_multiples.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_locum_proifle_review_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_logout_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_mobile_ic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_name_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_navigation_accounting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_navigation_contact_us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_navigation_faq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_navigation_locum_review.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_navigation_news_blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_navigation_pharmacy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_navigation_rate_app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_navigation_support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_negotiate_rates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_no_negotitate_rate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_orange_popup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_pending_job_awating.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_pending_job_calander_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_pending_job_location_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_pending_job_time_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_registration_complete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_remove_edit_job_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_remove_pending_job.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_start_end_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_submit_review_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_toggle_active_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_toggle_inactive_btn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_top_bar_drop_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_top_bar_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmacy_under_construction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmcy_popup_blue_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmcy_popup_blue_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmcy_popup_green_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmcy_popup_green_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmcy_popup_orange_btn_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable-xxxhdpi/pharmcy_popup_orange_btn_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/animation_loader.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/animation_loader.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/ic_keyboard_arrow_left_black.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/ic_keyboard_arrow_left_black.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/ic_keyboard_arrow_left_white.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/ic_powered_by.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image62.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image66.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image69.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image71.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image75.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image77.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image78.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image79.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image81.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image84.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image85.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image86.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/loader_image90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_btn_blue_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_btn_green_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_btn_orange_popu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_btn_pharmacy_add_another_rate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_btn_pharmacy_default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_btn_pharmacy_edit_job.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_btn_pharmacy_edit_profile_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_btn_pharmacy_leave_review.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_btn_pharmacy_view_locum.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_cancel_popup_btn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_join_now_pharmacy_btn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_pharmacy_emergency_btn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/rounded_registation_find_address.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/switch_off.png" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/off_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/switch_on.png" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/drawable/on_call.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_create_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_create_profile_step2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_create_profile_step3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_findme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_forgot_password.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_join_now.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_edit_profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_edit_profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_logout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_logout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_locum_profile_edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_make_sure.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_news_blog_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_pharmacy_logout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_prefrences.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_privacy_policy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_sign_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_splash_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_splash_screen.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/activity_term_and_condition.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/add_locum_review.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/add_pharmacy_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/add_pharmacy_success.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/applicants_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/booked_jobs_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/bottom_bar_locum.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/bottom_bar_locum.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/bottom_bar_pharmacy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/camera_pic.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/camera_pic.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/common_pop_up_message.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/common_popup_message_confirm_job.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/completed_job_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/custom_tab.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/custom_tab.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/date_popup_locum.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/date_popup_locum.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/date_popup_pharmacy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/edit_job_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/edit_pharmacy_profile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/fragment_nav_drawer_locum.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/fragment_nav_drawer_locum.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/fragment_nav_drawer_pharmacy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/fragment_pharmacy_jobs_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/gender_position_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/google_places_search_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/gphc_information_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/job_cancel_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/l_registration_step_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/l_registration_step_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/l_registration_step_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/l_registration_step_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_accounting_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_accrediation_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_acreditations_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_applied_job_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_applied_shifts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_booked_jobs_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_booked_shifts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_booked_shifts_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_completed_jobs_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_completed_shifts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_confirm_job_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_confirm_shifts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_dashboard_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_dashboard_top_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_dashboard_top_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_date_range_picker_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_dates_picker_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_document_sub_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_document_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_document_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_documents_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_feedback_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_feedback_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_fragment_calendar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_fragment_calendar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_fragment_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_fragment_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_fragment_notifications.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_fragment_notifications.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_fragment_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_fragment_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_gender_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_job_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_main_my_shifts_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/fragment_locum_main_my_shifts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_pmr_sys_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_pmr_sys_pop_up.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_qualifing_questions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_search_job_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_shifts_applied.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/fragment_locum_shifts_confirm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/locum_shifts_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/maps_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/month.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/multiple_date_picker_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/my_grid_cal_item_locum.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/my_grid_cal_item_pharmacy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/my_pharmacy_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/my_pharmacy_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/negotiation_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/p_dashboard_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pdf_reader_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pending_jobs_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pha_registration_step_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pha_registration_step_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pha_registration_step_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_accounting_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_cal_popup_pending_jobs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_calendar_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_calendar_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_completed_locum_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_dashboard_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_date_picker_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_date_range_picker_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_drop_down.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_email_verification_dialog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_home_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_job_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_locum_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_multiple_jobs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_new_details_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_notification_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_notification_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_parking_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_parking_position_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_pending_jobs_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_pending_locum_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_positions_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_positions_popup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_qualifing_questions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_registration_complete.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_top_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/pharmacy_upload_job_fragment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/resend_link_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/search_location_fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/search_location_fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/similar_jobs_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/social_networking_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/support_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/universal_loading_bar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/universal_loading_bar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/upload_job_date_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/upload_job_date_time_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/layout/week.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/app/src/release/res/values/google_maps_api.xml" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/app/src/release/res/values/google_maps_api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/androidwelocum/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/androidwelocum/gradle.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/androidwelocum" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="6" />
+    <option name="width" value="1533" />
+    <option name="height" value="868" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c59fcd0a-e66a-4b01-8ca5-4fa67ba50a55" name="Default" comment="" />
+      <created>1545719426935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545719426935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498621" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Captures" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
